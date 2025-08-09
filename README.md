@@ -1,8 +1,5 @@
 <h1 align="center">Hola, soy Alan Mac-kay Vargas</h1>
 <h3 align="center">Desarrollador apasionado en Ingeniería en Computación, con gran capacidad para aprender nuevas herramientas conforme adquiere más conocimientos.</h3>
-
-- 📫 Conéctate conmigo por: **mackay.alan24@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alan mackay vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan mackay vargas" height="30" width="40" /></a>
